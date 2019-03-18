@@ -1,2 +1,2 @@
 # Practicum-I
-Fraud Detection using multiple models
+Fraud Detection using neural networks, decision trees, and support vector machines.
